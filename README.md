@@ -29,7 +29,7 @@ Check out the [design overview](https://github.com/nfischer/framily-tree/wiki/De
 ## Maintaining this family tree
 
 Updating the data? Adding new members to the tree? See the instructions
-[here](https://github.com/nfischer/framily-tree/wiki/Updating-data-(adding-new-members)).
+[here]().
 
 ## Creating your own family tree
 
